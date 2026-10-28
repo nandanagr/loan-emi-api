@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="LoanAPI.Tests/LoanAPI.Tests.csproj" />
+  <Project Path="LoanAPI/LoanAPI.csproj" />
+</Solution>
